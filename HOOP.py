@@ -41,7 +41,6 @@ class Hoop :
 
         if p == 1 :
             print ( "START :" )
-            1
             
             for i in range(1,51,1) :
                 if self.time_up:
